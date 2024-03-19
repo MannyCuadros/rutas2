@@ -1,0 +1,33 @@
+[3.253s] Invoking command in '/home/ubuntu20/ros2_ws/src/turtlebot4_controller': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlebot4_controller build --build-base /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build install --record /home/ubuntu20/ros2_ws/build/turtlebot4_controller/install.log --single-version-externally-managed
+[3.606s] running egg_info
+[3.606s] creating ../../build/turtlebot4_controller/turtlebot4_controller.egg-info
+[3.607s] writing ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/PKG-INFO
+[3.607s] writing dependency_links to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/dependency_links.txt
+[3.607s] writing entry points to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/entry_points.txt
+[3.608s] writing requirements to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/requires.txt
+[3.608s] writing top-level names to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/top_level.txt
+[3.643s] writing manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'
+[3.698s] reading manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'
+[3.700s] writing manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'
+[3.701s] running build
+[3.701s] running build_py
+[3.701s] creating /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build
+[3.701s] creating /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib
+[3.701s] creating /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller
+[3.702s] copying turtlebot4_controller/__init__.py -> /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller
+[3.702s] running install
+[3.703s] running install_lib
+[3.704s] creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller
+[3.704s] copying /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller/__init__.py -> /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller
+[3.705s] byte-compiling /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller/__init__.py to __init__.cpython-38.pyc
+[3.706s] running install_data
+[3.707s] creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index
+[3.707s] creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index/resource_index
+[3.708s] creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index/resource_index/packages
+[3.708s] copying resource/turtlebot4_controller -> /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index/resource_index/packages
+[3.708s] copying package.xml -> /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/turtlebot4_controller
+[3.708s] running install_egg_info
+[3.710s] Copying ../../build/turtlebot4_controller/turtlebot4_controller.egg-info to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller-0.0.0-py3.8.egg-info
+[3.711s] running install_scripts
+[3.738s] writing list of installed files to '/home/ubuntu20/ros2_ws/build/turtlebot4_controller/install.log'
+[3.768s] Invoked command in '/home/ubuntu20/ros2_ws/src/turtlebot4_controller' returned '0': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlebot4_controller build --build-base /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build install --record /home/ubuntu20/ros2_ws/build/turtlebot4_controller/install.log --single-version-externally-managed

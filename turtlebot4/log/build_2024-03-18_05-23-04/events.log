@@ -1,0 +1,81 @@
+[0.000000] (-) TimerEvent: {}
+[0.000864] (turtlebot4_controller) JobQueued: {'identifier': 'turtlebot4_controller', 'dependencies': OrderedDict()}
+[0.000918] (turtlebot4_controller) JobStarted: {'identifier': 'turtlebot4_controller'}
+[0.100404] (-) TimerEvent: {}
+[0.201346] (-) TimerEvent: {}
+[0.301989] (-) TimerEvent: {}
+[0.403157] (-) TimerEvent: {}
+[0.503649] (-) TimerEvent: {}
+[0.604719] (-) TimerEvent: {}
+[0.706368] (-) TimerEvent: {}
+[0.807287] (-) TimerEvent: {}
+[0.909209] (-) TimerEvent: {}
+[1.009737] (-) TimerEvent: {}
+[1.110206] (-) TimerEvent: {}
+[1.210435] (-) TimerEvent: {}
+[1.311102] (-) TimerEvent: {}
+[1.411533] (-) TimerEvent: {}
+[1.512400] (-) TimerEvent: {}
+[1.613260] (-) TimerEvent: {}
+[1.714155] (-) TimerEvent: {}
+[1.815470] (-) TimerEvent: {}
+[1.917278] (-) TimerEvent: {}
+[2.017785] (-) TimerEvent: {}
+[2.118271] (-) TimerEvent: {}
+[2.218588] (-) TimerEvent: {}
+[2.318971] (-) TimerEvent: {}
+[2.419374] (-) TimerEvent: {}
+[2.520101] (-) TimerEvent: {}
+[2.620490] (-) TimerEvent: {}
+[2.720980] (-) TimerEvent: {}
+[2.821300] (-) TimerEvent: {}
+[2.921684] (-) TimerEvent: {}
+[3.022199] (-) TimerEvent: {}
+[3.122823] (-) TimerEvent: {}
+[3.223411] (-) TimerEvent: {}
+[3.248195] (turtlebot4_controller) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/turtlebot4_controller', 'build', '--build-base', '/home/ubuntu20/ros2_ws/build/turtlebot4_controller/build', 'install', '--record', '/home/ubuntu20/ros2_ws/build/turtlebot4_controller/install.log', '--single-version-externally-managed'], 'cwd': '/home/ubuntu20/ros2_ws/src/turtlebot4_controller', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'ubuntu20', 'SSH_AGENT_PID': '116920', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/x86_64-linux-gnu:/opt/ros/galactic/lib', 'HOME': '/home/ubuntu20', 'OLDPWD': '/home/ubuntu20/ros2_ws/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'MANAGERPID': '116771', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/ubuntu20/ros2_ws/install', 'ROS_DISTRO': 'galactic', 'LOGNAME': 'ubuntu20', 'JOURNAL_STREAM': '8:2280260', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'ubuntu20', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/galactic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/ubuntu20-TUF-Gaming-FX505GD-FX505GD:@/tmp/.ICE-unix/116958,unix/ubuntu20-TUF-Gaming-FX505GD-FX505GD:/tmp/.ICE-unix/116958', 'INVOCATION_ID': 'f2c84ee660d840f39b8c4ccb63edc0ff', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/a41b2332_6167_4b64_9442_f136649fc83e', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.116', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/galactic', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'GJS_DEBUG_OUTPUT': 'stderr', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/ubuntu20/ros2_ws/build/turtlebot4_controller', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[3.323581] (-) TimerEvent: {}
+[3.423963] (-) TimerEvent: {}
+[3.524278] (-) TimerEvent: {}
+[3.606333] (turtlebot4_controller) StdoutLine: {'line': b'running egg_info\n'}
+[3.607252] (turtlebot4_controller) StdoutLine: {'line': b'creating ../../build/turtlebot4_controller/turtlebot4_controller.egg-info\n'}
+[3.607549] (turtlebot4_controller) StdoutLine: {'line': b'writing ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/PKG-INFO\n'}
+[3.607819] (turtlebot4_controller) StdoutLine: {'line': b'writing dependency_links to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/dependency_links.txt\n'}
+[3.608151] (turtlebot4_controller) StdoutLine: {'line': b'writing entry points to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/entry_points.txt\n'}
+[3.608330] (turtlebot4_controller) StdoutLine: {'line': b'writing requirements to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/requires.txt\n'}
+[3.608496] (turtlebot4_controller) StdoutLine: {'line': b'writing top-level names to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/top_level.txt\n'}
+[3.624427] (-) TimerEvent: {}
+[3.643557] (turtlebot4_controller) StdoutLine: {'line': b"writing manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'\n"}
+[3.699153] (turtlebot4_controller) StdoutLine: {'line': b"reading manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'\n"}
+[3.701159] (turtlebot4_controller) StdoutLine: {'line': b"writing manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'\n"}
+[3.701419] (turtlebot4_controller) StdoutLine: {'line': b'running build\n'}
+[3.701566] (turtlebot4_controller) StdoutLine: {'line': b'running build_py\n'}
+[3.701829] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build\n'}
+[3.702123] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib\n'}
+[3.702298] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller\n'}
+[3.702464] (turtlebot4_controller) StdoutLine: {'line': b'copying turtlebot4_controller/__init__.py -> /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller\n'}
+[3.702628] (turtlebot4_controller) StdoutLine: {'line': b'running install\n'}
+[3.703396] (turtlebot4_controller) StdoutLine: {'line': b'running install_lib\n'}
+[3.704756] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller\n'}
+[3.704965] (turtlebot4_controller) StdoutLine: {'line': b'copying /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller/__init__.py -> /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller\n'}
+[3.705664] (turtlebot4_controller) StdoutLine: {'line': b'byte-compiling /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller/__init__.py to __init__.cpython-38.pyc\n'}
+[3.707274] (turtlebot4_controller) StdoutLine: {'line': b'running install_data\n'}
+[3.707942] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index\n'}
+[3.708235] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index/resource_index\n'}
+[3.708489] (turtlebot4_controller) StdoutLine: {'line': b'creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index/resource_index/packages\n'}
+[3.708669] (turtlebot4_controller) StdoutLine: {'line': b'copying resource/turtlebot4_controller -> /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/ament_index/resource_index/packages\n'}
+[3.708838] (turtlebot4_controller) StdoutLine: {'line': b'copying package.xml -> /home/ubuntu20/ros2_ws/install/turtlebot4_controller/share/turtlebot4_controller\n'}
+[3.709002] (turtlebot4_controller) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.710534] (turtlebot4_controller) StdoutLine: {'line': b'Copying ../../build/turtlebot4_controller/turtlebot4_controller.egg-info to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4_controller-0.0.0-py3.8.egg-info\n'}
+[3.712019] (turtlebot4_controller) StdoutLine: {'line': b'running install_scripts\n'}
+[3.724558] (-) TimerEvent: {}
+[3.738634] (turtlebot4_controller) StdoutLine: {'line': b"writing list of installed files to '/home/ubuntu20/ros2_ws/build/turtlebot4_controller/install.log'\n"}
+[3.768803] (turtlebot4_controller) CommandEnded: {'returncode': 0}
+[3.825000] (-) TimerEvent: {}
+[3.925846] (-) TimerEvent: {}
+[4.026611] (-) TimerEvent: {}
+[4.127151] (-) TimerEvent: {}
+[4.228016] (-) TimerEvent: {}
+[4.328378] (-) TimerEvent: {}
+[4.371600] (turtlebot4_controller) JobEnded: {'identifier': 'turtlebot4_controller', 'rc': 0}
+[4.372892] (-) EventReactorShutdown: {}

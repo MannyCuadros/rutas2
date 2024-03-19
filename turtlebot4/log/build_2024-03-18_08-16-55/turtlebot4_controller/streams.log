@@ -1,0 +1,20 @@
+[2.465s] Invoking command in '/home/ubuntu20/ros2_ws/build/turtlebot4_controller': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build --no-deps install_data
+[2.838s] running develop
+[3.077s] running egg_info
+[3.077s] writing turtlebot4_controller.egg-info/PKG-INFO
+[3.078s] writing dependency_links to turtlebot4_controller.egg-info/dependency_links.txt
+[3.078s] writing entry points to turtlebot4_controller.egg-info/entry_points.txt
+[3.078s] writing requirements to turtlebot4_controller.egg-info/requires.txt
+[3.078s] writing top-level names to turtlebot4_controller.egg-info/top_level.txt
+[3.125s] reading manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[3.126s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[3.177s] running build_ext
+[3.178s] Creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4-controller.egg-link (link to .)
+[3.179s] Installing draw_circle script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.179s] Installing pose_subscriber script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.179s] Installing test_node script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.180s] Installing turtle_controller script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.180s] 
+[3.180s] Installed /home/ubuntu20/ros2_ws/build/turtlebot4_controller
+[3.180s] running install_data
+[3.211s] Invoked command in '/home/ubuntu20/ros2_ws/build/turtlebot4_controller' returned '0': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build --no-deps install_data

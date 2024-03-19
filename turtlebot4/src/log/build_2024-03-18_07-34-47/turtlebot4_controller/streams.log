@@ -1,0 +1,27 @@
+[2.622s] Invoking command in '/home/ubuntu20/ros2_ws/src/build/turtlebot4_controller': PYTHONPATH=/home/ubuntu20/ros2_ws/src/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/src/build/turtlebot4_controller/build --no-deps install_data
+[2.922s] running develop
+[3.121s] running egg_info
+[3.121s] creating turtlebot4_controller.egg-info
+[3.121s] writing turtlebot4_controller.egg-info/PKG-INFO
+[3.121s] writing dependency_links to turtlebot4_controller.egg-info/dependency_links.txt
+[3.122s] writing entry points to turtlebot4_controller.egg-info/entry_points.txt
+[3.122s] writing requirements to turtlebot4_controller.egg-info/requires.txt
+[3.122s] writing top-level names to turtlebot4_controller.egg-info/top_level.txt
+[3.123s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[3.183s] reading manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[3.184s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[3.243s] running build_ext
+[3.243s] Creating /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/python3.8/site-packages/site.py
+[3.245s] Creating /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4-controller.egg-link (link to .)
+[3.246s] Installing draw_circle script to /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.246s] Installing pose_subscriber script to /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.246s] Installing test_node script to /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/turtlebot4_controller
+[3.246s] 
+[3.247s] Installed /home/ubuntu20/ros2_ws/src/build/turtlebot4_controller
+[3.247s] running install_data
+[3.247s] creating /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/share/ament_index
+[3.247s] creating /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/share/ament_index/resource_index
+[3.247s] creating /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/share/ament_index/resource_index/packages
+[3.247s] copying resource/turtlebot4_controller -> /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/share/ament_index/resource_index/packages
+[3.247s] copying package.xml -> /home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/share/turtlebot4_controller
+[3.290s] Invoked command in '/home/ubuntu20/ros2_ws/src/build/turtlebot4_controller' returned '0': PYTHONPATH=/home/ubuntu20/ros2_ws/src/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/src/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/src/build/turtlebot4_controller/build --no-deps install_data

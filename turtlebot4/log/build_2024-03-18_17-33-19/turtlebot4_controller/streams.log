@@ -1,0 +1,20 @@
+[1.641s] Invoking command in '/home/ubuntu20/ros2_ws/build/turtlebot4_controller': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build --no-deps symlink_data
+[2.036s] running develop
+[2.279s] running egg_info
+[2.280s] writing turtlebot4_controller.egg-info/PKG-INFO
+[2.280s] writing dependency_links to turtlebot4_controller.egg-info/dependency_links.txt
+[2.280s] writing entry points to turtlebot4_controller.egg-info/entry_points.txt
+[2.280s] writing requirements to turtlebot4_controller.egg-info/requires.txt
+[2.280s] writing top-level names to turtlebot4_controller.egg-info/top_level.txt
+[2.330s] reading manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[2.331s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[2.387s] running build_ext
+[2.388s] Creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4-controller.egg-link (link to .)
+[2.389s] Installing draw_circle script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.389s] Installing pose_subscriber script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.390s] Installing test_node script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.390s] Installing turtle_controller script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.390s] 
+[2.390s] Installed /home/ubuntu20/ros2_ws/build/turtlebot4_controller
+[2.390s] running symlink_data
+[2.425s] Invoked command in '/home/ubuntu20/ros2_ws/build/turtlebot4_controller' returned '0': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build --no-deps symlink_data

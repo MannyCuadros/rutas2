@@ -1,0 +1,5 @@
+[console_scripts]
+draw_circle = turtlebot4_controller.draw_circle:main
+pose_subscriber = turtlebot4_controller.pose_subscriber:main
+test_node = turtlebot4_controller.first_node:main
+

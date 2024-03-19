@@ -1,0 +1,19 @@
+[2.127s] Invoking command in '/home/ubuntu20/ros2_ws/build/turtlebot4_controller': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build --no-deps install_data
+[2.345s] running develop
+[2.482s] running egg_info
+[2.483s] writing turtlebot4_controller.egg-info/PKG-INFO
+[2.483s] writing dependency_links to turtlebot4_controller.egg-info/dependency_links.txt
+[2.483s] writing entry points to turtlebot4_controller.egg-info/entry_points.txt
+[2.483s] writing requirements to turtlebot4_controller.egg-info/requires.txt
+[2.483s] writing top-level names to turtlebot4_controller.egg-info/top_level.txt
+[2.511s] reading manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[2.512s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[2.542s] running build_ext
+[2.542s] Creating /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages/turtlebot4-controller.egg-link (link to .)
+[2.543s] Installing draw_circle script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.543s] Installing pose_subscriber script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.543s] Installing test_node script to /home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[2.543s] 
+[2.543s] Installed /home/ubuntu20/ros2_ws/build/turtlebot4_controller
+[2.543s] running install_data
+[2.564s] Invoked command in '/home/ubuntu20/ros2_ws/build/turtlebot4_controller' returned '0': PYTHONPATH=/home/ubuntu20/ros2_ws/build/turtlebot4_controller/prefix_override:/home/ubuntu20/ros2_ws/install/turtlebot4_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu20/ros2_ws/build/turtlebot4_controller/build --no-deps install_data

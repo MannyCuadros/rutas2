@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Actualización de valor</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            var sse = new EventSource('/sse');
+
+            sse.addEventListener('valor-actualizado', function(event) {
+                var valor = event.data;
+                $('#valor').text(valor);
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Valor actual: <span id="valor">0</span></h1>
+</body>
+</html>

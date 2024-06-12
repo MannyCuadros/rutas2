@@ -1,0 +1,8 @@
+{
+    "id_cliente": "pc000",
+    "nombre_sistema": "turtle2",
+    "tipo_sistema": "ROS2",
+    "tipo_mensaje": "Publisher",
+    "topico": "cmd_vel",
+    "parametros": "0.0/0.0/0.2/1.0/0.0/0.0"
+}
